@@ -1,8 +1,8 @@
-# CityFix 🏙️
+# CityFix 
 
 CityFix is a **Civic Issue Tracker** designed for citizens to instantly report localized problems (e.g., potholes, graffiti, broken streetlights) and for city officials to triage and manage statuses. Built with a stunning dark-theme glassmorphism interface.
 
-## ✨ Features
+## Features
 - **Interactive Mapping:** Powered by [Leaflet](https://leafletjs.com/), users can visually pinpoint issue locations or automatically drop pins using browser **Geolocation APIs**.
 - **Media Uploads:** Cloud-synced image uploads hosted directly by **Cloudinary**.
 - **Issue Workflow System:** Robust backend tracking states (Open → In Progress → Resolved) strictly modeled using Mongoose schemas.
@@ -10,11 +10,11 @@ CityFix is a **Civic Issue Tracker** designed for citizens to instantly report l
 - **Upvote Mechanics:** Citizens can anonymously upvote severe issues to push their priority.
 - **Fully Responsive:** Sleek, mobile-first design with bottom-swiping navigation drawers overlapping the viewport perfectly on small UI breakpoints.
 
-## 🚀 Tech Stack
+##  Tech Stack
 - **Frontend**: React (Vite), TailwindCSS v4, React-Leaflet, Axios, Context API.
 - **Backend**: Node.js, Express, MongoDB (Mongoose), JWT Auth, Multer, Cloudinary.
 
-## 🛠️ Local Installation Guide
+##  Local Installation Guide
 
 1. **Clone the repository:**
    ```bash
